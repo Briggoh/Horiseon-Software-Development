@@ -12,3 +12,5 @@ I have attached a screenshot of the finished project below, this is what should 
 Click the link below to access the completed application:
 
 https://briggoh.github.io/Horiseon-Software-Development/
+
+Thank you for taking the time to review my work, it is greatly appreciated!
